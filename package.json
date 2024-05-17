@@ -1,7 +1,7 @@
 {
-  "name": "font-list",
-  "version": "1.5.1",
-  "description": "list system fonts",
+  "name": "font-list-path",
+  "version": "1.5.2",
+  "description": "list system fonts with path",
   "main": "index.js",
   "scripts": {
     "demo": "node demo.js",
@@ -15,6 +15,6 @@
     "type": "git",
     "url": "git+https://github.com/oldj/node-font-list"
   },
-  "author": "oldj",
+  "author": "splendor",
   "license": "MIT"
 }
